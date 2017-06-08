@@ -1,0 +1,8 @@
+{
+  "name": "image-size-sandbox",
+  "version": "1.0.0",
+  "description": "image size sandbox",
+  "main": "index.js",
+  "author": "jigsaw (http://jgs.me)",
+  "license": "MIT"
+}
